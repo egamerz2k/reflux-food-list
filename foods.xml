@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foodList>
+    <!-- Category 1: Very Low Reflux -->
+    <category id="1" name="Very Low Reflux">
+        <foodGroup name="Vegetables">
+            <food id="veg101">Artichoke</food>
+            <food id="veg102">Asparagus</food>
+            <food id="veg103">Arrowroot</food>
+            <food id="veg104">Baked spinach</food>
+            <food id="veg105">Beetroot</food>
+            <food id="veg106">Broccoli</food>
+            <food id="veg107">Brussels sprout</food>
+            <food id="veg108">Celery</food>
+            <food id="veg109">Endive</food>
+            <food id="veg110">Fennel</food>
+            <food id="veg111">Green beans</food>
+            <food id="veg112">Green peas</food>
+            <food id="veg113">Green salad</food>
+            <food id="veg114">Jerusalem Artichoke</food>
+            <food id="veg115">Mushrooms</food>
+            <food id="veg116">Potatoes</food>
+            <food id="veg117">Pumpkin</food>
+            <food id="veg118">Radish</food>
+            <food id="veg119">Red cabbage</food>
+            <food id="veg120">Turnip</food>
+            <food id="veg121">Turmeric</food>
+        </foodGroup>
+
+        <foodGroup name="Fruits">
+            <food id="frt101">Banana (unripe)</food>
+            <food id="frt102">Melon (cantaloupe)</food>
+            <food id="frt103">Melon (honeydew)</food>
+            <food id="frt104">Melon (watermelon)</food>
+        </foodGroup>
+
+        <foodGroup name="Drinks">
+            <food id="drk101">Coffee (maximum 1 cup per day; best as dark roast)</food>
+            <food id="drk102">Water (alkaline)</food>
+        </foodGroup>
+
+        <foodGroup name="Meats and Protein Sources">
+            <food id="prt101">Chicken (baked)</food>
+            <food id="prt102">Chicken (broiled)</food>
+            <food id="prt103">Chicken (grilled)</food>
+            <food id="prt104">Chicken (steamed; no skin)</food>
+            <food id="prt105">Chicken stock or bouillon</food>
+            <food id="prt106">Crabs</food>
+            <food id="prt107">Egg white</food>
+            <food id="prt108">Fish (baked)</food>
+            <food id="prt109">Fish (broiled)</food>
+            <food id="prt110">Fish (grilled)</food>
+            <food id="prt111">Fish (steamed)</food>
+            <food id="prt112">Fresh and thin fish</food>
+            <food id="prt113">Horse</food>
+            <food id="prt114">Lentil</food>
+            <food id="prt115">Lobster</food>
+            <food id="prt116">Mollusk</food>
+            <food id="prt117">Pork roast</food>
+            <food id="prt118">Shrimps</food>
+            <food id="prt119">Tofu</food>
+            <food id="prt120">Tuna (low-fat)</food>
+            <food id="prt121">Turkey breast (organic, no skin)</food>
+            <food id="prt122">Turkey fillet</food>
+            <food id="prt123">Veal (cutlet)</food>
+            <food id="prt124">Veal (roast)</food>
+        </foodGroup>
+
+        <foodGroup name="Sweeteners">
+            <food id="swt101">Agave</food>
+            <food id="swt102">Artificial sweetener (maximum 2 teaspoons per day)</food>
+            <food id="swt103">Caramel (max 4 tbspn / week)</food>
+            <food id="swt104">Honey</food>
+        </foodGroup>
+
+        <foodGroup name="Dairy and Alternatives">
+            <food id="dry101">Low-fat cheese</food>
+            <food id="dry102">Milk (lactic skim milk)</food>
+            <food id="dry103">Milk (skim)</food>
+            <food id="dry104">Milk (soy)</food>
+        </foodGroup>
+
+        <foodGroup name="Grains and Cereals">
+            <food id="grn101">Bagels (plain)</food>
+            <food id="grn102">Bread (rye)</food>
+            <food id="grn103">Bread (whole grain)</food>
+            <food id="grn104">Cereal (whole-grain)</food>
+            <food id="grn105">Crackers (whole grain)</food>
+            <food id="grn106">Graham crackers</food>
+            <food id="grn107">Oatmeal</food>
+            <food id="grn108">Pasta (with nonacidic sauce)</food>
+            <food id="grn109">Popcorn (plain or salted, no butter)</food>
+            <food id="grn110">Rice (Brown)</food>
+            <food id="grn111">Rice (Red)</food>
+            <food id="grn112">Rice (White)</food>
+            <food id="grn113">Soups (plain noodles and vegetables)</food>
+            <food id="grn114">Spaghettis (cooked)</food>
+        </foodGroup>
+
+        <foodGroup name="Nuts and Seeds">
+            <food id="nut101">Pistachios</food>
+        </foodGroup>
+
+        <foodGroup name="Fats and Oils">
+            <food id="oil101">Garlic-infused olive oil</food>
+            <food id="oil102">Olive oil (maximum 2 tablespoons per day)</food>
+        </foodGroup>
+
+        <foodGroup name="Spices and Herbs">
+            <food id="spc101">Garlic (powder)</food>
+            <food id="spc102">Ginger (ginger root, powdered, or preserved)</food>
+            <food id="spc103">Herbs (excluding all peppers, citrus, garlic, and mustard)</food>
+            <food id="spc104">Parsley</food>
+        </foodGroup>
+
+        <foodGroup name="Condiments and Sauces">
+            <food id="con101">Vinaigrette (maximum 1 tablespoon per day)</food>
+        </foodGroup>
+    </category>
+
+    <!-- Category 2: Low Reflux -->
+    <category id="2" name="Low Reflux">
+        <foodGroup name="Vegetables">
+            <food id="veg201">Aubergine</food>
+            <food id="veg202">Carrots</food>
+            <food id="veg203">Chili</food>
+            <food id="veg204">Corn</food>
+            <food id="veg205">Jicama</food>
+            <food id="veg206">Leek</food>
+            <food id="veg207">Onion</food>
+            <food id="veg208">Shallot</food>
+            <food id="veg209">Sweet Potato</food>
+            <food id="veg210">Turnip</food>
+            <food id="veg211">Yam</food>
+        </foodGroup>
+
+        <foodGroup name="Fruits">
+            <food id="frt201">Banana (ripe)</food>
+            <food id="frt202">Cherry</food>
+        </foodGroup>
+
+        <foodGroup name="Drinks">
+            <food id="drk201">Aloe vera</food>
+            <food id="drk202">Cacao (hot chocolate)</food>
+            <food id="drk203">Chamomile</food>
+            <food id="drk204">Tea (green)</food>
+            <food id="drk205">Water (sparkling)</food>
+            <food id="drk206">Water (still)</food>
+        </foodGroup>
+
+        <foodGroup name="Meats and Protein Sources">
+            <food id="prt201">Chicken (full fat, skin)</food>
+            <food id="prt202">Ham (cooked)</food>
+            <food id="prt203">Ham (whole)</food>
+            <food id="prt204">Kidneys</food>
+            <food id="prt205">Lamb (chops)</food>
+            <food id="prt206">Lamb (ground)</food>
+            <food id="prt207">Lamb (shoulder)</food>
+            <food id="prt208">Pork tenderloin</food>
+            <food id="prt209">Rib steak</food>
+            <food id="prt210">Ribs</food>
+            <food id="prt211">Steak (filet)</food>
+            <food id="prt212">Steak (strip-loin)</food>
+            <food id="prt213">Veal chop</food>
+        </foodGroup>
+
+        <foodGroup name="Grains and Cereals">
+            <food id="grn201">White bread</food>
+        </foodGroup>
+
+        <foodGroup name="Spices and Herbs">
+            <food id="spc201">Pepper</food>
+        </foodGroup>
+
+        <foodGroup name="Condiments and Sauces">
+            <food id="con201">Ketchup</food>
+        </foodGroup>
+    </category>
+
+    <!-- Category 3: Moderate Reflux -->
+    <category id="3" name="Moderate Reflux">
+        <foodGroup name="Vegetables">
+            <food id="veg301">Courgettes</food>
+            <food id="veg302">Cucumber</food>
+            <food id="veg303">Horseradish</food>
+            <food id="veg304">Pickle</food>
+            <food id="veg305">Potato</food>
+            <food id="veg306">Tomato (raw)</food>
+        </foodGroup>
+
+        <foodGroup name="Fruits">
+            <food id="frt301">Apricot</food>
+            <food id="frt302">Blueberry</food>
+            <food id="frt303">Dried plum</food>
+            <food id="frt304">Fig</food>
+            <food id="frt305">Grapefruit</food>
+            <food id="frt306">Guava</food>
+            <food id="frt307">Mandarin</food>
+            <food id="frt308">Nectarine</food>
+            <food id="frt309">Orange</food>
+            <food id="frt310">Peach</food>
+            <food id="frt311">Pear</food>
+            <food id="frt312">Plum</food>
+            <food id="frt313">Raspberry</food>
+            <food id="frt314">Rhubarb</food>
+            <food id="frt315">Strawberry</food>
+        </foodGroup>
+
+        <foodGroup name="Drinks">
+            <food id="drk301">Alcohol (strong and liquor)</food>
+            <food id="drk302">Beer</food>
+            <food id="drk303">Chicory</food>
+            <food id="drk304">Coffee</food>
+            <food id="drk305">Tea (black)</food>
+            <food id="drk306">Tea</food>
+            <food id="drk307">Tomato juice</food>
+        </foodGroup>
+
+        <foodGroup name="Meats and Protein Sources">
+            <food id="prt301">Duck (without skin and fat)</food>
+            <food id="prt302">Eggs (boiled)</food>
+            <food id="prt303">Fatty fish</food>
+            <food id="prt304">Lamb (cutlet)</food>
+            <food id="prt305">Pork (chops)</food>
+            <food id="prt306">Pork (shoulder)</food>
+            <food id="prt307">Salmon</food>
+            <food id="prt308">Sardines</food>
+            <food id="prt309">Tripes</food>
+        </foodGroup>
+
+        <foodGroup name="Dairy and Alternatives">
+            <food id="dry301">Camembert</food>
+            <food id="dry302">Milk (goat, semi-skimmed)</food>
+            <food id="dry303">Milk (Semi-skimmed)</food>
+        </foodGroup>
+
+        <foodGroup name="Grains and Cereals">
+            <food id="grn301">Bread (whole meal)</food>
+            <food id="grn302">Cereals (corn flakes)</food>
+        </foodGroup>
+
+        <foodGroup name="Nuts and Seeds">
+            <food id="nut301">Pecans</food>
+            <food id="nut302">Walnuts</food>
+            <food id="nut303">Brazil nuts</food>
+            <food id="nut304">Pine nuts</food>
+            <food id="nut305">Almonds</food>
+            <food id="nut306">Cashews</food>
+        </foodGroup>
+
+        <foodGroup name="Fats and Oils">
+            <food id="oil301">Olive oil (greater than 2 tablespoons)</food>
+        </foodGroup>
+
+        <foodGroup name="Spices and Herbs">
+            <food id="spc301">Ginger (fresh)</food>
+            <food id="spc302">Mint</food>
+        </foodGroup>
+
+        <foodGroup name="Condiments and Sauces">
+            <food id="con301">Fish sauce</food>
+            <food id="con302">Sugar</food>
+        </foodGroup>
+    </category>
+
+    <!-- Category 4: High Reflux -->
+    <category id="4" name="High Reflux">
+        <foodGroup name="Vegetables">
+            <food id="veg401">Cauliflower</food>
+        </foodGroup>
+
+        <foodGroup name="Fruits">
+            <food id="frt401">Apple</food>
+            <food id="frt402">Blackberries</food>
+            <food id="frt403">Kiwi</food>
+            <food id="frt404">Lychee</food>
+            <food id="frt405">Mango</food>
+            <food id="frt406">Pomegranate</food>
+            <food id="frt407">Raisin</food>
+            <food id="frt408">Redcurrant</food>
+        </foodGroup>
+
+        <foodGroup name="Drinks">
+            <food id="drk401">Apple juice</food>
+            <food id="drk402">Grapefruit juice</food>
+            <food id="drk403">Lemon juice</food>
+            <food id="drk404">Multifruit juice</food>
+            <food id="drk405">Orange juice</food>
+            <food id="drk406">Soda (sugar free)</food>
+            <food id="drk407">Soda (with sugar)</food>
+            <food id="drk408">Syrup (Mint, lemon, grenadine)</food>
+            <food id="drk409">Tea (blackberry)</food>
+            <food id="drk410">Tea (lemon)</food>
+            <food id="drk411">Wine (red)</food>
+            <food id="drk412">Wine (rose)</food>
+            <food id="drk413">Wine (white)</food>
+        </foodGroup>
+
+        <foodGroup name="Meats and Protein Sources">
+            <food id="prt401">Ground meat</food>
+            <food id="prt402">Sausages</food>
+            <food id="prt403">Salami</food>
+            <food id="prt404">Pâté</food>
+        </foodGroup>
+
+        <foodGroup name="Sweeteners">
+            <food id="swt401">Orange jam</food>
+            <food id="swt402">Raspberry jam</food>
+            <food id="swt403">Strawberry jam</food>
+        </foodGroup>
+
+        <foodGroup name="Dairy and Alternatives">
+            <food id="dry401">Brie, Blue, bread cheese</food>
+            <food id="dry402">Cheddar</food>
+            <food id="dry403">Egg yolk</food>
+            <food id="dry404">Feta</food>
+            <food id="dry405">Fontina</food>
+            <food id="dry406">Goat cheese</food>
+            <food id="dry407">Gouda</food>
+            <food id="dry408">Gruyere</food>
+            <food id="dry409">Hard cheese, full-fat cheese</food>
+            <food id="dry410">Milk (whole)</food>
+            <food id="dry411">Mozzarella</food>
+            <food id="dry412">Munster</food>
+            <food id="dry413">Parmesan</food>
+            <food id="dry414">Ricotta</food>
+            <food id="dry415">Roquefort</food>
+            <food id="dry416">Yogurt (fat)</food>
+        </foodGroup>
+
+        <foodGroup name="Grains and Cereals">
+            <food id="grn401">Cracker (non whole-grain)</food>
+            <food id="grn402">Noodles</food>
+        </foodGroup>
+
+        <foodGroup name="Nuts and Seeds">
+            <food id="nut401">Peanut</food>
+        </foodGroup>
+
+        <foodGroup name="Condiments and Sauces">
+            <food id="con401">Meat sauce</food>
+            <food id="con402">Mustard</food>
+            <food id="con403">Pasta sauce (Bolognese)</food>
+            <food id="con404">Tomato sauce</food>
+            <food id="con405">Vinaigrette</food>
+        </foodGroup>
+
+        <foodGroup name="Desserts">
+            <food id="des401">Cake</food>
+            <food id="des402">Cookies (including chocolate)</food>
+            <food id="des403">Sorbet</food>
+        </foodGroup>
+    </category>
+
+    <!-- Category 5: Very High Reflux -->
+    <category id="5" name="Very High Reflux">
+        <foodGroup name="Vegetables">
+            <food id="veg501">French fries</food>
+            <food id="veg502">Potato chips</food>
+            <food id="veg503">Sauerkraut</food>
+        </foodGroup>
+
+        <foodGroup name="Fruits">
+            <food id="frt501">Avocado</food>
+            <food id="frt502">Olive (black)</food>
+            <food id="frt503">Olive (green)</food>
+        </foodGroup>
+
+        <foodGroup name="Meats and Protein Sources">
+            <food id="prt501">Bacon</food>
+        </foodGroup>
+
+        <foodGroup name="Sweeteners">
+            <food id="swt501">Candy or sweets</food>
+            <food id="swt502">Chocolate (dark)</food>
+            <food id="swt503">Chocolate (milk)</food>
+            <food id="swt504">Chocolate (white)</food>
+        </foodGroup>
+
+        <foodGroup name="Dairy and Alternatives">
+            <food id="dry501">Ice cream</food>
+            <food id="dry502">Milk (coco)</food>
+        </foodGroup>
+
+        <foodGroup name="Grains and Cereals">
+            <food id="grn501">Chocolate croissant</food>
+            <food id="grn502">Chocolate eclairs</food>
+            <food id="grn503">Croissant</food>
+            <food id="grn504">Noodles</food>
+        </foodGroup>
+
+        <foodGroup name="Nuts and Seeds">
+            <food id="nut501">Macadamia nut</food>
+            <food id="nut502">Cashew</food>
+            <food id="nut503">Hazelnut</food>
+        </foodGroup>
+
+        <foodGroup name="Fats and Oils">
+            <food id="oil501">Butter</food>
+        </foodGroup>
+
+        <foodGroup name="Spices and Herbs">
+            <food id="spc501">Curry</food>
+            <food id="spc502">Spicy</food>
+        </foodGroup>
+
+        <foodGroup name="Condiments and Sauces">
+            <food id="con501">Mayonnaise</food>
+            <food id="con502">Meat sauce (Bearnaise)</food>
+            <food id="con503">Meat sauce (Pepper)</food>
+            <food id="con504">Meat sauce (Roquefort)</food>
+            <food id="con505">Pasta sauce (carbonara)</food>
+            <food id="con506">Pasta sauce (pesto)</food>
+            <food id="con507">Pesto</food>
+            <food id="con508">Sriracha</food>
+            <food id="con509">Tabasco</food>
+        </foodGroup>
+    </category>
+</foodList>
