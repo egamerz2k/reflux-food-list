@@ -3,7 +3,7 @@
     <!-- Category 1: Very Low Reflux -->
     <category id="1" name="Very Low Reflux">
         <foodGroup name="Vegetables">
-            <food id="veg101">Artichoke</food>
+            <food id="veg101">Artichokes</food>
             <food id="veg102">Asparagus</food>
             <food id="veg103">Arrowroot</food>
             <food id="veg104">Baked spinach</food>
