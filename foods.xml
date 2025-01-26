@@ -23,7 +23,6 @@
             <food id="veg118">Radish</food>
             <food id="veg119">Red cabbage</food>
             <food id="veg120">Turnip</food>
-            <food id="veg121">Turmeric</food>
         </foodGroup>
 
         <foodGroup name="Fruits">
@@ -110,6 +109,7 @@
             <food id="spc102">Ginger (ginger root, powdered, or preserved)</food>
             <food id="spc103">Herbs (excluding all peppers, citrus, garlic, and mustard)</food>
             <food id="spc104">Parsley</food>
+            <food id="spc105">Turmeric</food>
         </foodGroup>
 
         <foodGroup name="Condiments and Sauces">
