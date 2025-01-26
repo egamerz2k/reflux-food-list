@@ -149,7 +149,7 @@
 
         <foodGroup name="Meats and Protein Sources">
             <food id="prt201">Chicken (full fat, skin)</food>
-            <food id="prt201">Ground meat (<3% fat)</food>
+            <food id="prt202">Ground meat (&lt;3% fat)</food>
             <food id="prt203">Ham (cooked)</food>
             <food id="prt204">Ham (whole)</food>
             <food id="prt205">Kidneys</food>
@@ -220,7 +220,7 @@
             <food id="prt301">Duck (without skin and fat)</food>
             <food id="prt302">Eggs (boiled)</food>
             <food id="prt303">Fatty fish</food>
-            <food id="prt304">Ground meat (>5% fat)</food>
+            <food id="prt304">Ground meat (&gt;5% fat)</food>
             <food id="prt305">Lamb (cutlet)</food>
             <food id="prt306">Pork (chops)</food>
             <food id="prt307">Pork (shoulder)</food>
@@ -298,7 +298,7 @@
         </foodGroup>
 
         <foodGroup name="Meats and Protein Sources">
-            <food id="prt401">Ground meat (>7% fat)</food>
+            <food id="prt401">Ground meat (&gt;7% fat)</food>
             <food id="prt402">Sausages</food>
             <food id="prt403">Salami</food>
             <food id="prt404">Pate</food>
