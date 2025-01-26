@@ -33,7 +33,7 @@
         </foodGroup>
 
         <foodGroup name="Drinks">
-            <food id="drk101">Coffee (maximum 1 cup per day; best as dark roast)</food>
+            <food id="drk101">Coffee (max 1 cup per day; best as black, dark roast)</food>
             <food id="drk102">Water (alkaline)</food>
         </foodGroup>
 
@@ -101,7 +101,7 @@
 
         <foodGroup name="Fats and Oils">
             <food id="oil101">Garlic-infused olive oil</food>
-            <food id="oil102">Olive oil (maximum 2 tablespoons per day)</food>
+            <food id="oil102">Olive oil (max. 2 tbsp per day)</food>
         </foodGroup>
 
         <foodGroup name="Spices and Herbs">
@@ -139,7 +139,7 @@
         </foodGroup>
 
         <foodGroup name="Drinks">
-            <food id="drk201">Aloe vera</food>
+            <food id="drk201">Aloe vera juice</food>
             <food id="drk202">Cacao (hot chocolate)</food>
             <food id="drk203">Chamomile</food>
             <food id="drk204">Tea (green)</food>
@@ -149,18 +149,19 @@
 
         <foodGroup name="Meats and Protein Sources">
             <food id="prt201">Chicken (full fat, skin)</food>
-            <food id="prt202">Ham (cooked)</food>
-            <food id="prt203">Ham (whole)</food>
-            <food id="prt204">Kidneys</food>
-            <food id="prt205">Lamb (chops)</food>
-            <food id="prt206">Lamb (ground)</food>
-            <food id="prt207">Lamb (shoulder)</food>
-            <food id="prt208">Pork tenderloin</food>
-            <food id="prt209">Rib steak</food>
-            <food id="prt210">Ribs</food>
-            <food id="prt211">Steak (filet)</food>
-            <food id="prt212">Steak (strip-loin)</food>
-            <food id="prt213">Veal chop</food>
+            <food id="prt201">Ground meat (<3% fat)</food>
+            <food id="prt203">Ham (cooked)</food>
+            <food id="prt204">Ham (whole)</food>
+            <food id="prt205">Kidneys</food>
+            <food id="prt206">Lamb (chops)</food>
+            <food id="prt207">Lamb (ground)</food>
+            <food id="prt208">Lamb (shoulder)</food>
+            <food id="prt209">Pork tenderloin</food>
+            <food id="prt210">Rib steak</food>
+            <food id="prt211">Ribs</food>
+            <food id="prt212">Steak (filet)</food>
+            <food id="prt213">Steak (strip-loin)</food>
+            <food id="prt214">Veal chop</food>
         </foodGroup>
 
         <foodGroup name="Grains and Cereals">
@@ -168,7 +169,7 @@
         </foodGroup>
 
         <foodGroup name="Spices and Herbs">
-            <food id="spc201">Pepper</food>
+            <food id="spc201">Black Pepper</food>
         </foodGroup>
 
         <foodGroup name="Condiments and Sauces">
@@ -211,7 +212,7 @@
             <food id="drk303">Chicory</food>
             <food id="drk304">Coffee</food>
             <food id="drk305">Tea (black)</food>
-            <food id="drk306">Tea</food>
+            <food id="drk306">Tea (general, caffeinated)</food>
             <food id="drk307">Tomato juice</food>
         </foodGroup>
 
@@ -219,12 +220,13 @@
             <food id="prt301">Duck (without skin and fat)</food>
             <food id="prt302">Eggs (boiled)</food>
             <food id="prt303">Fatty fish</food>
-            <food id="prt304">Lamb (cutlet)</food>
-            <food id="prt305">Pork (chops)</food>
-            <food id="prt306">Pork (shoulder)</food>
-            <food id="prt307">Salmon</food>
-            <food id="prt308">Sardines</food>
-            <food id="prt309">Tripes</food>
+            <food id="prt304">Ground meat (>5% fat)</food>
+            <food id="prt305">Lamb (cutlet)</food>
+            <food id="prt306">Pork (chops)</food>
+            <food id="prt307">Pork (shoulder)</food>
+            <food id="prt308">Salmon</food>
+            <food id="prt309">Sardines</food>
+            <food id="prt310">Tripes</food>
         </foodGroup>
 
         <foodGroup name="Dairy and Alternatives">
@@ -281,13 +283,13 @@
 
         <foodGroup name="Drinks">
             <food id="drk401">Apple juice</food>
-            <food id="drk402">Grapefruit juice</food>
-            <food id="drk403">Lemon juice</food>
-            <food id="drk404">Multifruit juice</food>
+            <food id="drk402">Fruit juice (multi-fruit)</food>
+            <food id="drk403">Grapefruit juice</food>
+            <food id="drk404">Lemon juice</food>
             <food id="drk405">Orange juice</food>
             <food id="drk406">Soda (sugar free)</food>
             <food id="drk407">Soda (with sugar)</food>
-            <food id="drk408">Syrup (Mint, lemon, grenadine)</food>
+            <food id="drk408">Syrup (mint, lemon, grenadine)</food>
             <food id="drk409">Tea (blackberry)</food>
             <food id="drk410">Tea (lemon)</food>
             <food id="drk411">Wine (red)</food>
@@ -296,10 +298,10 @@
         </foodGroup>
 
         <foodGroup name="Meats and Protein Sources">
-            <food id="prt401">Ground meat</food>
+            <food id="prt401">Ground meat (>7% fat)</food>
             <food id="prt402">Sausages</food>
             <food id="prt403">Salami</food>
-            <food id="prt404">Pâté</food>
+            <food id="prt404">Pate</food>
         </foodGroup>
 
         <foodGroup name="Sweeteners">
