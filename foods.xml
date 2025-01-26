@@ -149,7 +149,7 @@
 
         <foodGroup name="Meats and Protein Sources">
             <food id="prt201">Chicken (full fat, skin)</food>
-            <food id="prt202"><![CDATA[Ground meat (<3% fat)]]></food>
+            <food id="prt202">Ground meat (less than 3% fat)</food>
             <food id="prt203">Ham (cooked)</food>
             <food id="prt204">Ham (whole)</food>
             <food id="prt205">Kidneys</food>
