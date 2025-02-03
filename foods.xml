@@ -392,9 +392,19 @@
     <!-- Category 5: Very High Reflux -->
     <category id="5" name="Very High Reflux">
         <foodGroup name="Vegetables">
-            <food id="veg501">French fries</food>
-            <food id="veg502">Potato chips</food>
-            <food id="veg503">Sauerkraut</food>
+            <food id="veg501">Bell Peppers (Green)</food>
+            <food id="veg502">Bell Peppers (Red)</food>
+            <food id="veg503">Bell Peppers (Yellow)</food>
+            <food id="veg504">Cayenne Peppers</food>
+            <food id="veg505">French fries</food>
+            <food id="veg506">Ghost Pepper</food>
+            <food id="veg507">Habanero Peppers</food>
+            <food id="veg508">Kimchi (spicy)</food>
+            <food id="veg509">Onion</food>
+            <food id="veg510">Poblano Peppers</food>
+            <food id="veg511">Potato chips</food>
+            <food id="veg512">Sauerkraut</food>
+            <food id="veg513">Serrano Peppers</food>
         </foodGroup>
 
         <foodGroup name="Fruits">
