@@ -33,12 +33,25 @@
             <food id="veg128">Zucchini</food>
         </foodGroup>
 
-
         <foodGroup name="Fruits">
             <food id="frt101">Banana (unripe)</food>
-            <food id="frt102">Melon (cantaloupe)</food>
-            <food id="frt103">Melon (honeydew)</food>
-            <food id="frt104">Melon (watermelon)</food>
+            <food id="frt102">Cherimoya (Custard Apple)</food>
+            <food id="frt103">Durian</food>
+            <food id="frt104">Feijoa (Pineapple Guava)</food>
+            <food id="frt105">Jujube</food>
+            <food id="frt106">Loquat</food>
+            <food id="frt107">Mamey Sapote</food>
+            <food id="frt108">Mangosteen</food>
+            <food id="frt109">Medjool Date</food>
+            <food id="frt110">Medlar</food>
+            <food id="frt111">Melon (cantaloupe)</food>
+            <food id="frt112">Melon (honeydew)</food>
+            <food id="frt113">Melon (watermelon)</food>
+            <food id="frt114">Papaya</food>
+            <food id="frt115">Persimmon (ripe)</food>
+            <food id="frt116">Ripe Plantain</food>
+            <food id="frt117">Sapodilla</food>
+            <food id="frt118">Soursop (Guanabana)</food>
         </foodGroup>
 
         <foodGroup name="Drinks">
