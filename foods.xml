@@ -130,11 +130,19 @@
 </foodGroup>
 
         <foodGroup name="Spices and Herbs">
-            <food id="spc101">Garlic (powder)</food>
-            <food id="spc102">Ginger (ginger root, powdered, or preserved)</food>
-            <food id="spc103">Herbs (excluding all peppers, citrus, garlic, and mustard)</food>
-            <food id="spc104">Parsley</food>
-            <food id="spc105">Turmeric</food>
+            <food id="spc101">Bay Leaf</food>
+            <food id="spc102">Cilantro (Coriander, fresh)</food>
+            <food id="spc103">Dill Weed</food>
+            <food id="spc104">Garlic (powder)</food>
+            <food id="spc105">Ginger (root, powdered or preserved)</food>
+            <food id="spc107">Marjoram</food>
+            <food id="spc108">Oregano (Dried)</food>
+            <food id="spc109">Parsley</food>
+            <food id="spc110">Rosemary (Dried)</food>
+            <food id="spc111">Sage</food>
+            <food id="spc112">Sweet Basil</food>
+            <food id="spc113">Tarragon</food>
+            <food id="spc114">Turmeric</food>
         </foodGroup>
 
         <foodGroup name="Condiments and Sauces">
@@ -225,7 +233,15 @@
 </foodGroup>
 
         <foodGroup name="Spices and Herbs">
-            <food id="spc201">Black Pepper</food>
+            <food id="spc201">Allspice</food>
+            <food id="spc202">Anise Seeds</food>
+            <food id="spc204">Caraway Seeds</food>
+            <food id="spc205">Cardamom</food>
+            <food id="spc206">Coriander Seeds</food>
+            <food id="spc207">Cumin</food>
+            <food id="spc208">Fennel Seeds</food>
+            <food id="spc209">Fenugreek</food>
+            <food id="spc210">Sweet Paprika</food>
         </foodGroup>
 
         <foodGroup name="Condiments and Sauces">
@@ -339,8 +355,14 @@
         </foodGroup>
 
         <foodGroup name="Spices and Herbs">
-            <food id="spc301">Ginger (fresh)</food>
-            <food id="spc302">Mint</food>
+            <food id="spc301">Chili Powder (mild)</food>
+            <food id="spc302">Cilantro (Coriander, dried)</food>
+            <food id="spc303">Ginger (fresh)</food>
+            <food id="spc304">Mint</food>
+            <food id="spc305">Mustard Powder</food>
+            <food id="spc306">Onion Powder</food>
+            <food id="spc307">Paprika (smoked)</food>
+            <food id="spc308">Spearmint</food>
         </foodGroup>
 
         <foodGroup name="Condiments and Sauces">
@@ -450,6 +472,16 @@
             <food id="oil402">Margarine</food>
             <food id="oil403">Tallow (Beef Fat)</food>
         </foodGroup>
+
+                <foodGroup name="Spices and Herbs">
+            <food id="spc401">Cayenne Pepper (Hot)</food>
+            <food id="spc402">Chili Powder (hot)</food>
+            <food id="spc403">Chipotle Chili Powder</food>
+            <food id="spc404">Horseradish (fresh, grated)</food>
+            <food id="spc405">Red Pepper Flakes</food>
+            <food id="spc406">Wasabi (powder or paste)</food>
+        </foodGroup>
+
         
         <foodGroup name="Condiments and Sauces">
             <food id="con401">Meat sauce</food>
@@ -532,8 +564,9 @@
         </foodGroup>
 
         <foodGroup name="Spices and Herbs">
-            <food id="spc501">Curry</food>
-            <food id="spc502">Spicy</food>
+            <food id="spc501">Black pepper</food>
+            <food id="spc502">Curry</food>
+            <food id="spc503">Spicy</food>
         </foodGroup>
 
         <foodGroup name="Condiments and Sauces">
