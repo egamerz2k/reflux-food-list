@@ -200,12 +200,19 @@
     <!-- Category 3: Moderate Reflux -->
     <category id="3" name="Moderate Reflux">
         <foodGroup name="Vegetables">
-            <food id="veg301">Courgettes</food>
-            <food id="veg302">Cucumber</food>
-            <food id="veg303">Horseradish</food>
-            <food id="veg304">Pickle</food>
-            <food id="veg305">Potato</food>
-            <food id="veg306">Tomato (raw)</food>
+            <food id="veg301">Arugula</food>
+            <food id="veg302">Chicory</food>
+            <food id="veg303">Courgettes</food>
+            <food id="veg304">Cucumber</food>
+            <food id="veg305">Horseradish</food>
+            <food id="veg306">Kohlrabi</food>
+            <food id="veg307">Pickle</food>
+            <food id="veg308">Potato</food>
+            <food id="veg309">Purslane</food>
+            <food id="veg310">Rutabaga</food>
+            <food id="veg311">Sorrel</food>
+            <food id="veg312">Tomato (raw)</food>
+            <food id="veg313">Water Chestnuts</food>
         </foodGroup>
 
         <foodGroup name="Fruits">
