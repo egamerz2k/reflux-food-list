@@ -169,6 +169,18 @@
         <foodGroup name="Fruits">
             <food id="frt201">Banana (ripe)</food>
             <food id="frt202">Cherry</food>
+            <food id="frt203">Eggfruit</food>
+            <food id="frt204">Jackfruit (ripe)</food>
+            <food id="frt205">Lanzones (Longkong)</food>
+            <food id="frt206">Mangaba</food>
+            <food id="frt207">Mulberry</food>
+            <food id="frt208">Pawpaw</food>
+            <food id="frt209">Pear (Asian)</food>
+            <food id="frt210">Prickly Pear</food>
+            <food id="frt211">Pulasan</food>
+            <food id="frt212">Quince</food>
+            <food id="frt213">Serviceberry (Juneberry)</food>
+            <food id="frt214">White Sapote</food>
         </foodGroup>
 
         <foodGroup name="Drinks">
