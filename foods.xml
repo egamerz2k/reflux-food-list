@@ -460,9 +460,17 @@
         </foodGroup>
 
         <foodGroup name="Fruits">
-            <food id="frt501">Avocado</food>
-            <food id="frt502">Olive (black)</food>
-            <food id="frt503">Olive (green)</food>
+            <food id="frt501">Amla (Indian Gooseberry)</food>
+            <food id="frt502">Avocado</food>
+            <food id="frt503">Barberry</food>
+            <food id="frt504">Black Currant</food>
+            <food id="frt505">Calamansi</food>
+            <food id="frt506">Elderberry</food>
+            <food id="frt507">Goji Berry</food>
+            <food id="frt508">Olive (black)</food>
+            <food id="frt509">Olive (green)</food>
+            <food id="frt510">Sour Cherry (very tart cherry)</food>
+            <food id="frt511">Tamarind</food>
         </foodGroup>
 
         <foodGroup name="Meats and Protein Sources">
