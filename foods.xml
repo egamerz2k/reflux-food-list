@@ -2,28 +2,37 @@
 <foodList>
     <!-- Category 1: Very Low Reflux -->
     <category id="1" name="Very Low Reflux">
-        <foodGroup name="Vegetables">
-            <food id="veg101">Artichokes</food>
-            <food id="veg102">Asparagus</food>
-            <food id="veg103">Arrowroot</food>
+                <foodGroup name="Vegetables">
+            <food id="veg101">Arrowroot</food>
+            <food id="veg102">Artichokes</food>
+            <food id="veg103">Asparagus</food>
             <food id="veg104">Baked spinach</food>
             <food id="veg105">Beetroot</food>
-            <food id="veg106">Broccoli</food>
-            <food id="veg107">Brussels sprout</food>
-            <food id="veg108">Celery</food>
-            <food id="veg109">Endive</food>
-            <food id="veg110">Fennel</food>
-            <food id="veg111">Green beans</food>
-            <food id="veg112">Green peas</food>
-            <food id="veg113">Green salad</food>
-            <food id="veg114">Jerusalem Artichoke</food>
-            <food id="veg115">Mushrooms</food>
-            <food id="veg116">Potatoes</food>
-            <food id="veg117">Pumpkin</food>
-            <food id="veg118">Radish</food>
-            <food id="veg119">Red cabbage</food>
-            <food id="veg120">Turnip</food>
+            <food id="veg106">Bok Choy</food>
+            <food id="veg107">Broccoli</food>
+            <food id="veg108">Broccolini</food>
+            <food id="veg109">Brussels sprout</food>
+            <food id="veg110">Celery</food>
+            <food id="veg111">Endive</food>
+            <food id="veg112">Fennel</food>
+            <food id="veg113">Green beans</food>
+            <food id="veg114">Green peas</food>
+            <food id="veg115">Jerusalem Artichoke</food>
+            <food id="veg116">Kale</food>
+            <food id="veg117">Lettuce (Butterhead)</food>
+            <food id="veg118">Lettuce (Romaine)</food>
+            <food id="veg119">Mushrooms</food>
+            <food id="veg120">Potatoes</food>
+            <food id="veg121">Pumpkin</food>
+            <food id="veg122">Radish</food>
+            <food id="veg123">Red cabbage</food>
+            <food id="veg124">Squash (Butternut)</food>
+            <food id="veg125">Sqush (Acorn)</food>
+            <food id="veg126">Swiss Chard</food>
+            <food id="veg127">Turnip</food>
+            <food id="veg128">Zucchini</food>
         </foodGroup>
+
 
         <foodGroup name="Fruits">
             <food id="frt101">Banana (unripe)</food>
