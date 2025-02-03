@@ -121,10 +121,13 @@
             <food id="nut101">Pistachios</food>
         </foodGroup>
 
-        <foodGroup name="Fats and Oils">
-            <food id="oil101">Garlic-infused olive oil</food>
-            <food id="oil102">Olive oil (max. 2 tbsp per day)</food>
-        </foodGroup>
+<foodGroup name="Fats and Oils">
+    <food id="oil101">Avocado Oil</food>
+    <food id="oil102">Canola Oil</food>
+    <food id="oil103">Garlic-infused olive oil</food>
+    <food id="oil104">Grapeseed Oil</food>
+    <food id="oil105">Olive oil (max. 2 tbsp per day)</food>
+</foodGroup>
 
         <foodGroup name="Spices and Herbs">
             <food id="spc101">Garlic (powder)</food>
@@ -212,6 +215,14 @@
         <foodGroup name="Grains and Cereals">
             <food id="grn201">White bread</food>
         </foodGroup>
+
+        <foodGroup name="Fats and Oils">
+    <food id="oil201">Hemp Seed Oil</food>
+    <food id="oil202">Sesame Oil (Non‑toasted)</food>
+    <food id="oil203">Standard Safflower Oil (non–high‑oleic)</food>
+    <food id="oil204">Sunflower Oil</food>
+    <food id="oil205">Sunflower Oil</food>
+</foodGroup>
 
         <foodGroup name="Spices and Herbs">
             <food id="spc201">Black Pepper</food>
@@ -316,7 +327,15 @@
         </foodGroup>
 
         <foodGroup name="Fats and Oils">
-            <food id="oil301">Olive oil (greater than 2 tablespoons)</food>
+            <food id="oil301">Cod Liver Oil</food>
+            <food id="oil302">Coconut Oil (Refined)</food>
+            <food id="oil303">Coconut Oil (Virgin, Cold‑Pressed)</food>
+            <food id="oil304">Fish Oil</food>
+            <food id="oil305">MCT Oil</food>
+            <food id="oil306">Olive oil (greater than 2 tablespoons)</food>
+            <food id="oil307">Peanut Oil</food>
+            <food id="oil308">Sesame Oil (toasted)</food>
+            <food id="oil309">Soybean Oil</food>
         </foodGroup>
 
         <foodGroup name="Spices and Herbs">
@@ -426,6 +445,12 @@
             <food id="nut401">Peanut</food>
         </foodGroup>
 
+                <foodGroup name="Fats and Oils">
+            <food id="oil401">Duck Fat</food>
+            <food id="oil402">Margarine</food>
+            <food id="oil403">Tallow (Beef Fat)</food>
+        </foodGroup>
+        
         <foodGroup name="Condiments and Sauces">
             <food id="con401">Meat sauce</food>
             <food id="con402">Mustard</food>
