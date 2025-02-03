@@ -148,6 +148,14 @@
         <foodGroup name="Condiments and Sauces">
             <food id="con101">Vinaigrette (maximum 1 tablespoon per day)</food>
         </foodGroup>
+
+                <foodGroup name="Desserts">
+            <food id="des101">Angel Food Cake</food>
+            <food id="des102">Gelatin Dessert (Jell-O)</food>
+            <food id="des103">Plain Sponge Cake</food>
+            <food id="des104">Rice Pudding (skim milk)</food>
+        </foodGroup>
+
     </category>
 
     <!-- Category 2: Low Reflux -->
@@ -247,6 +255,12 @@
         <foodGroup name="Condiments and Sauces">
             <food id="con201">Ketchup</food>
         </foodGroup>
+
+        <foodGroup name="Desserts">
+            <food id="des201">Low-Fat Frozen Yogurt</food>
+            <food id="des202">Oatmeal Cookie (light)</food>
+        </foodGroup>
+        
     </category>
 
     <!-- Category 3: Moderate Reflux -->
@@ -492,10 +506,18 @@
         </foodGroup>
 
         <foodGroup name="Desserts">
-            <food id="des401">Cake</food>
-            <food id="des402">Cookies (including chocolate)</food>
-            <food id="des403">Sorbet</food>
+            <food id="des401">Banana Bread</food>
+            <food id="des402">Cake</food>
+            <food id="des403">Chocolate Fudge Brownie</food>
+            <food id="des404">Chocolate Lava Cake</food>
+            <food id="des405">Cookies (including chocolate)</food>
+            <food id="des406">Deep-Fried Ice Cream</food>
+            <food id="des407">Pecan Pie</food>
+            <food id="des408">Rice Krispies Treat</food>
+            <food id="des409">Sorbet</food>
+            <food id="des410">Vanilla Pudding</food>
         </foodGroup>
+
     </category>
 
     <!-- Category 5: Very High Reflux -->
