@@ -218,8 +218,8 @@
 
         <foodGroup name="Fats and Oils">
     <food id="oil201">Hemp Seed Oil</food>
-    <food id="oil202">Sesame Oil (Non‑toasted)</food>
-    <food id="oil203">Standard Safflower Oil (non–high‑oleic)</food>
+    <food id="oil202">Sesame Oil (not toasted)</food>
+    <food id="oil203">Standard Safflower Oil</food>
     <food id="oil204">Sunflower Oil</food>
     <food id="oil205">Sunflower Oil</food>
 </foodGroup>
@@ -329,7 +329,7 @@
         <foodGroup name="Fats and Oils">
             <food id="oil301">Cod Liver Oil</food>
             <food id="oil302">Coconut Oil (Refined)</food>
-            <food id="oil303">Coconut Oil (Virgin, Cold‑Pressed)</food>
+            <food id="oil303">Coconut Oil (Virgin, Cold Pressed)</food>
             <food id="oil304">Fish Oil</food>
             <food id="oil305">MCT Oil</food>
             <food id="oil306">Olive oil (greater than 2 tablespoons)</food>
