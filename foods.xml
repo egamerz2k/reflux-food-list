@@ -294,7 +294,16 @@
     <!-- Category 4: High Reflux -->
     <category id="4" name="High Reflux">
         <foodGroup name="Vegetables">
-            <food id="veg401">Cauliflower</food>
+            <food id="veg401">Banana Peppers</food>
+            <food id="veg402">Cauliflower</food>
+            <food id="veg403">Chard (Red)</food>
+            <food id="veg404">Escarole</food>
+            <food id="veg405">Fermented Kimchi</food>
+            <food id="veg406">Green Onions (Bulbs)</food>
+            <food id="veg407">Jalapeños</food>
+            <food id="veg408">Mustard Greens</food>
+            <food id="veg409">Tomatillos</food>
+            <food id="veg410">Wasabi Root</food>
         </foodGroup>
 
         <foodGroup name="Fruits">
