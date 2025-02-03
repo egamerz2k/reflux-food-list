@@ -347,13 +347,26 @@
 
         <foodGroup name="Fruits">
             <food id="frt401">Apple</food>
-            <food id="frt402">Blackberries</food>
-            <food id="frt403">Kiwi</food>
-            <food id="frt404">Lychee</food>
-            <food id="frt405">Mango</food>
-            <food id="frt406">Pomegranate</food>
-            <food id="frt407">Raisin</food>
-            <food id="frt408">Redcurrant</food>
+            <food id="frt402">Bergamot</food>
+            <food id="frt403">Blackberries</food>
+            <food id="frt404">Calamondin</food>
+            <food id="frt405">Citron</food>
+            <food id="frt406">Clementine</food>
+            <food id="frt407">Kaffir Lime</food>
+            <food id="frt408">Key Lime</food>
+            <food id="frt409">Kiwi</food>
+            <food id="frt410">Lemon</food>
+            <food id="frt411">Lychee</food>
+            <food id="frt412">Mango</food>
+            <food id="frt413">Pomelo</food>
+            <food id="frt414">Pomegranate</food>
+            <food id="frt415">Raisin</food>
+            <food id="frt416">Redcurrant</food>
+            <food id="frt417">Seville Orange (Bitter Orange)</food>
+            <food id="frt418">Sudachi</food>
+            <food id="frt419">Tangerine</food>
+            <food id="frt420">Ugli Fruit</food>
+            <food id="frt421">Yuzu</food>
         </foodGroup>
 
         <foodGroup name="Drinks">
