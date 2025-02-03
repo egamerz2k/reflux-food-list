@@ -130,16 +130,27 @@
     <category id="2" name="Low Reflux">
         <foodGroup name="Vegetables">
             <food id="veg201">Aubergine</food>
-            <food id="veg202">Carrots</food>
-            <food id="veg203">Chili</food>
-            <food id="veg204">Corn</food>
-            <food id="veg205">Jicama</food>
-            <food id="veg206">Leek</food>
-            <food id="veg207">Onion</food>
-            <food id="veg208">Shallot</food>
-            <food id="veg209">Sweet Potato</food>
-            <food id="veg210">Turnip</food>
-            <food id="veg211">Yam</food>
+            <food id="veg202">Bamboo Shoots</food>
+            <food id="veg203">Carrots</food>
+            <food id="veg204">Chayote</food>
+            <food id="veg205">Chili</food>
+            <food id="veg206">Collard Greens</food>
+            <food id="veg207">Corn</food>
+            <food id="veg208">Edamame</food>
+            <food id="veg209">Jicama</food>
+            <food id="veg210">Leek</food>
+            <food id="veg211">Microgreens</food>
+            <food id="veg212">Napa Cabbage</food>
+            <food id="veg213">Okra</food>
+            <food id="veg215">Parsnips</food>
+            <food id="veg216">Radicchio</food>
+            <food id="veg217">Scallions</food>
+            <food id="veg218">Shallot</food>
+            <food id="veg219">Snow Peas</food>
+            <food id="veg220">Sweet Potato</food>
+            <food id="veg221">Turnip</food>
+            <food id="veg222">Watercress</food>
+            <food id="veg223">Yam</food>
         </foodGroup>
 
         <foodGroup name="Fruits">
