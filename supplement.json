@@ -1,0 +1,28 @@
+{
+  "supplements": [
+    {
+      "id": 1,
+      "name": "Psyllium Husk",
+      "image": "https://m.media-amazon.com/images/I/71ayeSrf7BL._AC_UL640_QL65_.jpg",
+      "ingredient": "Psyllium Husk Powder",
+      "description": "A natural fiber supplement that forms a gel-like substance in the digestive tract. It helps reduce acid reflux by absorbing excess stomach acid and creating a protective barrier. Also supports regular bowel movements and overall digestive health.",
+      "link": "https://www.amazon.com/Organic-India-Psyllium-Natural-Fiber/dp/B0016AXN7A"
+    },
+    {
+      "id": 2,
+      "name": "Sodium Alginate",
+      "image": "https://m.media-amazon.com/images/I/71X8NE+-bQL._AC_UL640_QL65_.jpg",
+      "ingredient": "Sodium Alginate (from seaweed)",
+      "description": "Creates a protective barrier that floats on top of stomach contents, helping prevent acid reflux. When combined with stomach acid, it forms a raft that blocks acid from moving up into the esophagus.",
+      "link": "https://www.amazon.com/Reflux-Gourmet-All-Natural-Alternative-Suppressant/dp/B07TWFXPQR"
+    },
+    {
+      "id": 3,
+      "name": "DGL Plus",
+      "image": "https://m.media-amazon.com/images/I/71Ry9qTDpBL._AC_UL640_QL65_.jpg",
+      "ingredient": "Deglycyrrhizinated Licorice Root (DGL), Marshmallow Root, Slippery Elm",
+      "description": "A comprehensive digestive support formula combining DGL licorice with other soothing herbs. Helps maintain the mucosal lining of the stomach and supports overall digestive comfort. The combination of herbs creates a protective coating in the digestive tract.",
+      "link": "https://www.amazon.com/Pure-Encapsulations-Plus-Digestive-Support/dp/B0016KPX3G"
+    }
+  ]
+}
