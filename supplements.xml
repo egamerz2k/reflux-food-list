@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <supplements>
-    <supplement>
+    <supplement id="1">
         <name>Psyllium Husk</name>
         <image>https://m.media-amazon.com/images/I/71ayeSrf7BL._AC_UL640_QL65_.jpg</image>
         <ingredient>Psyllium Husk Powder</ingredient>
@@ -8,7 +8,7 @@
         <link>https://www.amazon.com/Organic-India-Psyllium-Natural-Fiber/dp/B0016AXN7A</link>
     </supplement>
 
-    <supplement>
+    <supplement id="2">
         <name>Sodium Alginate</name>
         <image>https://m.media-amazon.com/images/I/71X8NE+-bQL._AC_UL640_QL65_.jpg</image>
         <ingredient>Sodium Alginate (from seaweed)</ingredient>
@@ -16,7 +16,7 @@
         <link>https://www.amazon.com/Reflux-Gourmet-All-Natural-Alternative-Suppressant/dp/B07TWFXPQR</link>
     </supplement>
 
-    <supplement>
+    <supplement id="3">
         <name>DGL Plus</name>
         <image>https://m.media-amazon.com/images/I/71Ry9qTDpBL._AC_UL640_QL65_.jpg</image>
         <ingredient>Deglycyrrhizinated Licorice Root (DGL), Marshmallow Root, Slippery Elm</ingredient>
